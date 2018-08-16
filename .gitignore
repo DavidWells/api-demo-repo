@@ -12,9 +12,6 @@ githubUser.json
 # third party external content
 content-external
 
-# phenomic build
-dist
-backend/post-scheduler
 secrets.json
 .env
 
